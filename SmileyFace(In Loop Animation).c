@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 /*
-	Code Designed by Group 20-SYCO-B
+	Code Designed by Harsh Vishwakarma
 	Topic: Design smiley face with changing expressions in C
 */
 
